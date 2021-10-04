@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/tams.iml" filepath="$PROJECT_DIR$/.idea/tams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tams-server/tams-server.iml" filepath="$PROJECT_DIR$/tams-server/tams-server.iml" />
     </modules>
   </component>
 </project>
